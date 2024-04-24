@@ -5,7 +5,7 @@ import { Heart, Github } from 'lucide-react'
 export const Landing = () => {
   return (
     <div className="flex flex-col h-screen w-screen justify-center items-center">
-      <p className="text-6xl font-bold gradient">
+      <p className="text-2xl md:text-6xl font-bold gradient">
         {' '}
         Open Source License Generator
       </p>
